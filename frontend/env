@@ -1,0 +1,8 @@
+# Frontend Environment Variables
+# Backend API URL - adjust based on your deployment
+
+VITE_API_URL=http://localhost:8000/api/v1
+
+# Optional: Add other environment variables here
+# VITE_APP_NAME=SPOC Booking Platform
+# VITE_LOG_LEVEL=info
